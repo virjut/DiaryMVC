@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JuttaVirta\\source\\repos\\DiaryMVC\\DiaryMVC\\DiaryMVC.csproj": {}
+    "C:\\Users\\JuttaVirta\\OneDrive - Academic Work Academy\\Desktop\\Diary\\DiaryMVC\\DiaryMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JuttaVirta\\source\\repos\\DiaryMVC\\DiaryMVC\\DiaryMVC.csproj": {
+    "C:\\Users\\JuttaVirta\\OneDrive - Academic Work Academy\\Desktop\\Diary\\DiaryMVC\\DiaryMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JuttaVirta\\source\\repos\\DiaryMVC\\DiaryMVC\\DiaryMVC.csproj",
+        "projectUniqueName": "C:\\Users\\JuttaVirta\\OneDrive - Academic Work Academy\\Desktop\\Diary\\DiaryMVC\\DiaryMVC.csproj",
         "projectName": "DiaryMVC",
-        "projectPath": "C:\\Users\\JuttaVirta\\source\\repos\\DiaryMVC\\DiaryMVC\\DiaryMVC.csproj",
+        "projectPath": "C:\\Users\\JuttaVirta\\OneDrive - Academic Work Academy\\Desktop\\Diary\\DiaryMVC\\DiaryMVC.csproj",
         "packagesPath": "C:\\Users\\JuttaVirta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JuttaVirta\\source\\repos\\DiaryMVC\\DiaryMVC\\obj\\",
+        "outputPath": "C:\\Users\\JuttaVirta\\OneDrive - Academic Work Academy\\Desktop\\Diary\\DiaryMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JuttaVirta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

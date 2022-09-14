@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using DiaryMVC.Models;
 
 namespace DiaryMVC.Data
-{
+{   
     public class DiaryMVCContext : DbContext
     {
         public DiaryMVCContext (DbContextOptions<DiaryMVCContext> options)

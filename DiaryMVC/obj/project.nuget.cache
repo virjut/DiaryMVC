@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrL2OtJ498IThZAoAdN5tP3FMqhq87Huk0380JC9XsJcA4EEiihrX71JJzwjfCYlW/PqI7TN9cj+DkbFFQ1DBA==",
+  "dgSpecHash": "EqVfLJkoCQfvjDfWq1b5cveLvnjjVuGr8Jm04p88JbHqNQ9UlWPsl9nW8WK6ar+FRa4pLiEf5FEB+VISMVrTEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JuttaVirta\\source\\repos\\DiaryMVC\\DiaryMVC\\DiaryMVC.csproj",
+  "projectFilePath": "C:\\Users\\JuttaVirta\\OneDrive - Academic Work Academy\\Desktop\\Diary\\DiaryMVC\\DiaryMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuttaVirta\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\JuttaVirta\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

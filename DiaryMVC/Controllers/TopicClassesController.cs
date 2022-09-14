@@ -18,7 +18,7 @@ namespace DiaryMVC.Controllers
         {
             _context = context;
         }
-
+       
         // GET: TopicClasses
         public async Task<IActionResult> Index()
         {
